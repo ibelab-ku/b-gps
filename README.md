@@ -7,7 +7,7 @@ B-GPS : Blockchain-based Global Positioning System for Improve Data Integrity an
 
 ##
 ### Publication
-Lee, Seunghyeon, Hong-Woo Seok, Ki-rim Lee, and Hoh P. In. 2022. "[B-GPS: Blockchain-Based Global Positioning System for Improved Data Integrity and Reliability](https://doi.org/10.3390/ijgi11030186)" ISPRS International Journal of Geo-Information 11, no. 3: 186. https://doi.org/10.3390/ijgi11030186
+Lee, Seunghyeon, Hong-Woo Seok, Ki-rim Lee, and Hoh P. In. 2022. "[B-GPS: Blockchain-Based Global Positioning System for Improved Data Integrity and Reliability](https://doi.org/10.3390/ijgi11030186)" ISPRS Int. J. Geo-Inf. 2022, 11, 186. https://doi.org/10.3390/ijgi11030186
 
 
 
