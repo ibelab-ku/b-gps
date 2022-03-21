@@ -1,8 +1,6 @@
 # b-gps
 B-GPS : Blockchain-based Global Positioning System for Improve Data Integrity and Reliability
-
-
-
+![Overview of the blocchain-based global positioning system](https://www.mdpi.com/ijgi/ijgi-11-00186/article_deploy/html/images/ijgi-11-00186-g001.png)
 
 
 ##
